@@ -1,0 +1,27 @@
+{
+    "put": {
+        "user": {
+            "id": 10,
+            "name": "Jennie Nichols",
+            "username": "Jennie.Nichols",
+            "email": "jennie.nichols@example.com",
+            "address": {
+                "street": "Michigan",
+                "suite": "Suite 09000",
+                "city": "Billings",
+                "zipcode": "63104",
+                "geo": {
+                    "lat": "-69.8246",
+                    "lng": "134.8719"
+                }
+            },
+            "phone": "(272) 790-0888",
+            "website": "nichols.net",
+            "company": {
+                "name": "Darwin LLC",
+                "catchPhrase": "Duis aute irure dolor",
+                "bs": "nostrud exercitation ullamco"
+            }
+        }
+    }
+}

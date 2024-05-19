@@ -1,0 +1,26 @@
+{
+    "create": {
+        "user": {
+            "name": "Jennie Nichols",
+            "username": "Jennie.Nichols",
+            "email": "jennie.nichols@example.com",
+            "address": {
+                "street": "Valwood Pkwy",
+                "suite": "Suite 1123",
+                "city": "Billings",
+                "zipcode": "63104",
+                "geo": {
+                    "lat": "-69.8246",
+                    "lng": "134.8719"
+                }
+            },
+            "phone": "(489) 330-2385",
+            "website": "randomuser.net",
+            "company": {
+                "name": "Adelaide LLC",
+                "catchPhrase": "Lorem ipsum dolor",
+                "bs": "sint occaecat cupidatat"
+            }
+        }
+    }
+}
